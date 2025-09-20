@@ -1,5 +1,348 @@
 [
   {
+    "id": "ABjJMtSnhns",
+    "title": "Quiero Una Noche Contigo",
+    "channel": "Antony Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/ABjJMtSnhns/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "fQ22MtiyoGs",
+    "title": "He Tenido Que Llorar",
+    "channel": "Yoskar Sarante - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/fQ22MtiyoGs/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "I9I6jElp2Ys",
+    "title": "Su Novio Primero",
+    "channel": "Raulin Rodriguez - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/I9I6jElp2Ys/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "-HrRnXC7Q4o",
+    "title": "Llora Alma Mía",
+    "channel": "Yoskar Sarante - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/-HrRnXC7Q4o/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "s5ERrZoVuM8",
+    "title": "Pena De Amor",
+    "channel": "Antony Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/s5ERrZoVuM8/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "nqNQaSJIZ2U",
+    "title": "Vencido",
+    "channel": "Joe Veras - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/nqNQaSJIZ2U/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "jyRCSwEBac8",
+    "title": "Ding Dong",
+    "channel": "Luis Miguel del Amargue - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/jyRCSwEBac8/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "VTWzOjb1DN0",
+    "title": "Aferrado",
+    "channel": "Joe Veras - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/VTWzOjb1DN0/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "b85bLYtSHWM",
+    "title": "El Baile Del Perrito",
+    "channel": "Antony Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/b85bLYtSHWM/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "QzRv0smZDK4",
+    "title": "Dile A El",
+    "channel": "El Chaval De La Bachata - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/QzRv0smZDK4/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "yIbLU5OaPTU",
+    "title": "Directo Al Corazón",
+    "channel": "Elvis Martinez - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/yIbLU5OaPTU/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "IUZXaxQPex8",
+    "title": "La Noche (La Notte)",
+    "channel": "Yoskar Sarante - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/IUZXaxQPex8/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "L4u7Q_wiZ0w",
+    "title": "Que Me La Devuelva",
+    "channel": "Raulin Rodriguez - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/L4u7Q_wiZ0w/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "9Y5KtGdw4QE",
+    "title": "Te Soñe",
+    "channel": "Ala Jaza - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/9Y5KtGdw4QE/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "BcPmDl0UY6Y",
+    "title": "El Alchohol",
+    "channel": "Frank Reyes - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/BcPmDl0UY6Y/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "sO8xpDOR5Ks",
+    "title": "Si Estuvieras Aquí",
+    "channel": "Los Toros Band - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/sO8xpDOR5Ks/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "kp8BvjAqk1A",
+    "title": "Se Cambiaron los Papeles",
+    "channel": "Kiko Rodríguez - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/kp8BvjAqk1A/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "grULtlFgAqI",
+    "title": "Me Voy",
+    "channel": "Hector Acosta - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/grULtlFgAqI/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "dMU0F3E_ngI",
+    "title": "No Pude Quitarte Las Espinas (Bachata)",
+    "channel": "Los Toros Band - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/dMU0F3E_ngI/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "noL2MiX8UeQ",
+    "title": "Los Últimos",
+    "channel": "Romeo Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/noL2MiX8UeQ/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "GdE1OJ6izJw",
+    "title": "Estoy perdido",
+    "channel": "El Chaval De La Bachata - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/GdE1OJ6izJw/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "u2m3OwI7jMY",
+    "title": "Guerra De Amor",
+    "channel": "Yoskar Sarante - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/u2m3OwI7jMY/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "0vh2HdCB6NE",
+    "title": "Aquellos Dias",
+    "channel": "Zacarías Ferreíra - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/0vh2HdCB6NE/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "Iey54E-AU30",
+    "title": "Te Vas Amor",
+    "channel": "Antony Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/Iey54E-AU30/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "TUbNP4_TQws",
+    "title": "Se Te Nota",
+    "channel": "Joe Veras - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/TUbNP4_TQws/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "JSEDgMI-nFU",
+    "title": "Me Quedo",
+    "channel": "Romeo Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/JSEDgMI-nFU/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "9w5idWJpsmQ",
+    "title": "Me Enamoré - En Vivo 🔴 - Anthony Santos (TEMA PARA MUSICOLOGOS) 🔊🇩🇴",
+    "channel": "MusicologosRDtv",
+    "thumbnail": "https://i.ytimg.com/vi/9w5idWJpsmQ/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "Sd67V8AfTek",
+    "title": "Amorcito Enfermito",
+    "channel": "Hector Acosta - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/Sd67V8AfTek/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "hyaHY0Dn1ok",
+    "title": "Como Quisiera Olvidarte",
+    "channel": "Raulin Rodriguez - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/hyaHY0Dn1ok/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "WUCftOJewc4",
+    "title": "Mujeres Que Matan",
+    "channel": "Joe Veras - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/WUCftOJewc4/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "HuealJ5miJA",
+    "title": "Ella Volvio",
+    "channel": "Joe Veras - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/HuealJ5miJA/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "O9-98z8rf40",
+    "title": "Perdóname la Vida",
+    "channel": "Hector Acosta - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/O9-98z8rf40/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "jb64fXmx-gg",
+    "title": "Anda Ve Dile A El (Live)",
+    "channel": "El Chaval De La Bachata - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/jb64fXmx-gg/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "wamaSzNdL3g",
+    "title": "Eso da Pa'to",
+    "channel": "Marino Castellanos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/wamaSzNdL3g/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "k9WMgK2Qekk",
+    "title": "Vete Y Aléjate De Mi",
+    "channel": "Antony Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/k9WMgK2Qekk/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "WHOrat4of6c",
+    "title": "No Notas",
+    "channel": "Luis Miguel del Amargue - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/WHOrat4of6c/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "nLn3BqQf6dI",
+    "title": "Me Tienes Loco",
+    "channel": "Kiko Rodríguez - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/nLn3BqQf6dI/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "VSpebfm8ZKw",
+    "title": "Ay! No Te Vayas",
+    "channel": "Antony Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/VSpebfm8ZKw/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "ma2e8wFDWb0",
+    "title": "Dos Mujeres Para Mi",
+    "channel": "Raulin Rodriguez - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/ma2e8wFDWb0/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "ch3a-71qwDI",
+    "title": "Fabula De Amor",
+    "channel": "Elvis Martinez - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/ch3a-71qwDI/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "QgSmHR9J-9E",
+    "title": "Busca un Confidente",
+    "channel": "Alex Bueno - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/QgSmHR9J-9E/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "oq2vdQQ39qE",
+    "title": "Luto En Mi Corazón",
+    "channel": "Joe Veras - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/oq2vdQQ39qE/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "cnmx--dysWo",
+    "title": "Olvidarme De Ti (Live)",
+    "channel": "Antony Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/cnmx--dysWo/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "l7l6Q9P1f1U",
+    "title": "Se Fue De Mi Lado",
+    "channel": "Marino Castellanos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/l7l6Q9P1f1U/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "C3pGSOgEvAU",
+    "title": "Me Siento Triste Hoy",
+    "channel": "Raulin Rodriguez - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/C3pGSOgEvAU/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "L_eIHs-D35M",
+    "title": "Veneno",
+    "channel": "Luis Vargas - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/L_eIHs-D35M/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "azcqGbbIOpI",
+    "title": "Perdoname",
+    "channel": "Antony Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/azcqGbbIOpI/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "0DcFYGm4Gh0",
+    "title": "Donde Estan Esos Amigos",
+    "channel": "El Chaval De La Bachata - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/0DcFYGm4Gh0/hqdefault.jpg",
+    "tags": []
+  },
+  {
+    "id": "WPlkkbyn6KE",
+    "title": "La Demanda",
+    "channel": "Romeo Santos - Topic",
+    "thumbnail": "https://i.ytimg.com/vi/WPlkkbyn6KE/hqdefault.jpg",
+    "tags": []
+  },
+  {
     "id": "WZls4Cxf0iQ",
     "title": "LA ÚNICA MUJER - Bachata Y Cafe (Bachata 2025🌍)",
     "channel": "Mundo Latino",
